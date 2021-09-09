@@ -1,6 +1,6 @@
 <h1 align="center"><#Think Java Exercise 4.6></h1>
  
-## Assignment Description
+## Assignment
 <details>
 <summary>Description</summary>
 <br>
